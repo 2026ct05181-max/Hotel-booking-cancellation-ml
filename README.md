@@ -3,7 +3,7 @@
 ## 1. Problem Statement
 Predict whether a hotel booking will be cancelled (`is_canceled`) from booking details, and compare five classification algorithms (Logistic Regression, Decision Tree, kNN, Gaussian Naive Bayes, Random Forest) on the same dataset using Accuracy, AUC, Precision, Recall, F1 and MCC.
 
-## 2. Dataset Description
+## 2. Dataset Description 
 - **Source:** Kaggle, Hotel Booking Demand (`hotel_bookings.csv`), https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 - **Why chosen:** realistic business problem (overbooking and revenue management); more than 12 features, more than 1,000 rows, real missing values, mixed feature types and an imbalanced binary target.
 - **Instances:** 119,390 raw, 86,944 after cleaning | **Features:** 31 raw
