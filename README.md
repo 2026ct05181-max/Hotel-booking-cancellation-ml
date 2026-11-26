@@ -23,7 +23,7 @@ Predict whether a hotel booking will be cancelled (`is_canceled`) from booking d
 - All preprocessing is inside a scikit-learn Pipeline, so it is fitted on the training data only
 
 ## 3. GitHub Repository Link
-<PASTE YOUR REPO URL HERE>
+https://github.com/2026ct05181-max/Hotel-booking-cancellation-ml
 
 ## 4. Models Used
 ### Comparison table (test set)
